@@ -37,3 +37,5 @@ Lego blocks ship under multiple [themes](https://shop.lego.com/en-US/Themes). L
 ## **7. Wrapping It All Up!**
 
 Lego blocks offer an unlimited amount of fun across ages. We explored some interesting trends around colors, parts, and themes. Before we wrap up, let's take a closer look at the `themes_by_year` DataFrame you created in the previous step.
+
+[Link to the notebook](https://github.com/lvltcode/Exploring_the_History_of_Lego_with_Python/blob/main/notebook.ipynb)
