@@ -6,17 +6,12 @@ Everyone loves Lego (unless you ever stepped on one). Did you know by the way th
 
 In this project, we will analyze a fascinating dataset on every single Lego block that has ever been built!
 
-![https://s3.amazonaws.com/assets.datacamp.com/production/project_10/datasets/lego-bricks.jpeg](https://s3.amazonaws.com/assets.datacamp.com/production/project_10/datasets/lego-bricks.jpeg)
-
 
 ## **2. Reading Data**
 
 A comprehensive database of lego blocks is provided by [Rebrickable](https://rebrickable.com/downloads/). The data is available as csv files and the schema is shown below.
 
-![https://s3.amazonaws.com/assets.datacamp.com/production/project_10/datasets/downloads_schema.png](https://s3.amazonaws.com/assets.datacamp.com/production/project_10/datasets/downloads_schema.png)
-
 Let us start by reading in the colors data to get a sense of the diversity of Lego sets!
-
 
 ## **3. Exploring Colors**
 
